@@ -87,7 +87,7 @@ export const Hero: React.FC<HeroProps> = ({
               {/* Organic circular image container */}
               <div className="relative w-full h-full p-3 rounded-full overflow-hidden flex items-center justify-center">
                 <img
-                  src="/src/assets/images/dr_anamika_portrait_1789671903521.jpg"
+                  src="/dr_anamika_chandegra.jpeg"
                   alt="Dr. Anamika Chandegra - B.H.M.S. & N.C.H. Homeopathic Physician"
                   referrerPolicy="no-referrer"
                   className="w-full h-full object-cover object-top rounded-full shadow-inner hover:scale-105 transition-transform duration-700"

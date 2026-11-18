@@ -210,7 +210,7 @@ export const REVIEWS: ReviewItem[] = [
 export const GALLERY_ITEMS: GalleryItem[] = [
   {
     id: 'gal-1',
-    src: '/src/assets/images/dr_anamika_telehealth_1792353825822.jpg',
+    src: '/care_online_consultation.svg',
     category: 'care',
     alt: {
       en: 'Dr. Anamika Chandegra conducting live online telehealth video consultation',
@@ -225,7 +225,7 @@ export const GALLERY_ITEMS: GalleryItem[] = [
   },
   {
     id: 'gal-2',
-    src: '/src/assets/images/dr_anamika_portrait_1789671903521.jpg',
+    src: '/dr_anamika_chandegra.jpeg',
     category: 'consultation',
     alt: {
       en: 'Dr. Anamika Chandegra (B.H.M.S. & N.C.H.) consulting homeopathic physician',
@@ -255,7 +255,7 @@ export const GALLERY_ITEMS: GalleryItem[] = [
   },
   {
     id: 'gal-4',
-    src: '/src/assets/images/dr_anamika_case_study_1792353841036.jpg',
+    src: '/stories_case_study.svg',
     category: 'stories',
     alt: {
       en: 'Dr. Anamika Chandegra studying patient repertory and case notes',

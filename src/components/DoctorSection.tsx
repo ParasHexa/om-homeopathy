@@ -34,7 +34,7 @@ export const DoctorSection: React.FC<DoctorSectionProps> = ({
 
               <div className="relative rounded-2xl overflow-hidden shadow-lg border border-[#5C8A74]/20 bg-white">
                 <img
-                  src="/src/assets/images/dr_anamika_portrait_1789671903521.jpg"
+                  src="/dr_anamika_chandegra.jpeg"
                   alt="Dr. Anamika Chandegra (B.H.M.S. & N.C.H.)"
                   referrerPolicy="no-referrer"
                   className="w-full h-auto object-cover max-h-[500px]"
