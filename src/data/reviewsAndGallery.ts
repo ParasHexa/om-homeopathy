@@ -240,7 +240,7 @@ export const GALLERY_ITEMS: GalleryItem[] = [
   },
   {
     id: 'gal-3',
-    src: '/src/assets/images/homeopathy_remedies_1789671930604.jpg',
+    src: '/homeopathy_remedies.jpg',
     category: 'treatment',
     alt: {
       en: 'Authentic natural homeopathic remedies and pure globules in clean amber vials',
